@@ -35,8 +35,6 @@ DB_CONNECT_KEY="your_mongodb_connection_string"
 SECRET_KEY="your_jwt_secret"
 PORT=4000
 
-Note: Your current configuration uses Virat@12341 as the secret key and connects to a cluster named Instagram.
-
 2. Installation
 Bash
 npm install
